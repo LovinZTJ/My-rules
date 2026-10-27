@@ -1,3 +1,4 @@
 payload:
   -DOMAIN,pttime.org                          #匹配域名  DOMAIN
   -DOMIAN-SUFFIX,pttime.org                   #匹配后缀  DOMAIN-SUFFIX 
+  -DOMAIN,didaxr.com
