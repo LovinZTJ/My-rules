@@ -1,5 +1,8 @@
 payload:
   -DOMAIN,pttime.org                          #匹配域名  DOMAIN
   -DOMIAN-SUFFIX,pttime.org                   #匹配后缀  DOMAIN-SUFFIX 
+  -DOMAIN,m-team.cc                           #匹配域名  DOMAIN
+  -DOMAIN-KEYWORD,m-team                      #关键字的域名  DOMAIN-KEYWORD
   -DOMAIN,didaxr.com                          #匹配域名  DOMAIN
   -DOMAIN-KEYWORD,didaxr                      #关键字的域名  DOMAIN-KEYWORD
+  -DOMAIN-KEYWORD,znzmo                       #关键字的域名  DOMAIN-KEYWORD
